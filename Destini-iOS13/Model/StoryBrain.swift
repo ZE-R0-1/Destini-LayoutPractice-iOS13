@@ -8,7 +8,8 @@
 
 import Foundation
 
-struct storyBrain {
+struct StoryBrain {
+    
     var storyNumber = 0
     
     let stories = [
